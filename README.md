@@ -34,7 +34,7 @@ This project showcases an interactive **Excel Sales Dashboard** built using Pivo
 ---
 
 ## 📥 How to Use
-1. Download `dashboard.xlsx`
+1. Download `Dashboard for Sales Dataset.xlsx`
 2. Open the file in Microsoft Excel
 3. Use the slicers to filter and explore insights
 4. Review KPIs and charts for decision-making
