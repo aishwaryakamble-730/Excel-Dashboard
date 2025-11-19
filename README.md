@@ -1,6 +1,6 @@
 # Excel-Dashboard
 
-# 📊 Excel Sales Dashboard
+# Excel Sales Dashboard
 
 This project showcases an interactive **Excel Sales Dashboard** built using PivotTables, PivotCharts, Slicers, Conditional Formatting, and key KPI indicators. It provides a clear and dynamic view of sales performance for business decision-making.
 
@@ -20,8 +20,8 @@ This project showcases an interactive **Excel Sales Dashboard** built using Pivo
 
 | File Name          | Description                     |
 |-------------------|---------------------------------|
-| `dashboard.xlsx`  | Main Excel dashboard file        |
-| `dashboard.png`   | Screenshot/preview of dashboard  |
+| `Dashboard for Sales Dataset.xlsx`  | Main Excel dashboard file        |
+| `Sales Dashboard.png`   | Screenshot/preview of dashboard  |
 
 ---
 
